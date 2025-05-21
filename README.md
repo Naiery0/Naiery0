@@ -58,5 +58,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=WinFormProject&theme=swift)](https://github.com/Naiery0/WinFormProject)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=swift)](https://github.com/Naiery0/iot-database-2025)
-
