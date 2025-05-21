@@ -40,13 +40,14 @@
 
 
 ## Learning Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-C--2025&theme=moltack)](https://github.com/Naiery0/IoT-C--2025)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-Cpp-2025&theme=moltack)](https://github.com/Naiery0/IoT-Cpp-2025)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-winapp-2025&theme=moltack)](https://github.com/Naiery0/iot-winapp-2025)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-wpf-2025&theme=moltack)](https://github.com/Naiery0/iot-wpf-2025)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-Python-2025-&theme=moltack)](https://github.com/Naiery0/iot-Python-2025-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-algorithm-2025&theme=moltack)](https://github.com/Naiery0/iot-algorithm-2025)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-dataanalysis-2025&theme=moltack)](https://github.com/Naiery0/iot-dataanalysis-2025)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=moltack)](https://github.com/Naiery0/iot-database-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-C--2025&theme=swift)](https://github.com/Naiery0/IoT-C--2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-Cpp-2025&theme=swift)](https://github.com/Naiery0/IoT-Cpp-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-winapp-2025&theme=swift)](https://github.com/Naiery0/iot-winapp-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-wpf-2025&theme=swift)](https://github.com/Naiery0/iot-wpf-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-Python-2025-&theme=swift)](https://github.com/Naiery0/iot-Python-2025-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-algorithm-2025&theme=swift)](https://github.com/Naiery0/iot-algorithm-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-dataanalysis-2025&theme=swift)](https://github.com/Naiery0/iot-dataanalysis-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=swift)](https://github.com/Naiery0/iot-database-2025)
 
 
 ## Project Repository
