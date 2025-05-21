@@ -13,9 +13,9 @@
 
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naiery0&layout=compact)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naiery0&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naiery0&show_icons=true&theme=kacho_ga)
 
-
+<!-- moltack-->
 ## Experienced Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,16 +40,13 @@
 
 
 ## Learning Repository
-- C
-- C++
-- C#
-  - Winform
-  - WPF
-- Python
-  - Language
-  - Algorithm
-  - Data Analysis
-- SQL
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-C--2025&theme=moltack)](https://github.com/Naiery0/IoT-C--2025)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-Cpp-2025&theme=moltack)](https://github.com/Naiery0/IoT-Cpp-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-winapp-2025&theme=moltack)](https://github.com/Naiery0/iot-winapp-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-wpf-2025&theme=moltack)](https://github.com/Naiery0/iot-wpf-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-Python-2025-&theme=moltack)](https://github.com/Naiery0/iot-Python-2025-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-algorithm-2025&theme=moltack)](https://github.com/Naiery0/iot-algorithm-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-dataanalysis-2025&theme=moltack)](https://github.com/Naiery0/iot-dataanalysis-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=moltack)](https://github.com/Naiery0/iot-database-2025)
 
 
 ## Project Repository
