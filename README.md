@@ -3,8 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Naiery's%20Github&textBg=false&fontSize=45&fontColor=684a44&animation=fadeIn&rotate=1"/>
   </a>
 </p>
-
 ## Profile
+
 `Name` : Kim Juntae  
 
 `mail` <p><img src="https://img.shields.io/badge/molly724@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white">
@@ -51,17 +51,11 @@
 
 
 ## Project Repository
-- 드로잉 퀴즈
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
 
-- 랜덤 채팅
 
-- 졸음 방지 시스템
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=WinFormProject&theme=swift)](https://github.com/Naiery0/WinFormProject)
 
-- 수면환경 제어 시스템 
 
-- 동아리 관리 프로그램
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=swift)](https://github.com/Naiery0/iot-database-2025)
 
-- 모바일 프로젝트
-  - 투두리스트
-  - 상대음감 훈련
-  - 중고거래 어플
