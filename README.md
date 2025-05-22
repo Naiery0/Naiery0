@@ -8,9 +8,9 @@
 
 `Name` : Kim Juntae  
 
-`mail` <p><img src="https://img.shields.io/badge/molly724@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white">
-<img src="https://img.shields.io/badge/molly000724@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</p>
+`mail` <a href="mailto:molly724@naver.com"><img src="https://img.shields.io/badge/molly724@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"></a>
+<a href="mailto:molly000724@gamil.com"><img src="https://img.shields.io/badge/molly000724@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+
 
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naiery0&layout=compact)
  
