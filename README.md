@@ -40,7 +40,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+  
 ## Learning Repository
+<details>
+<summary>Repository List</summary>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-C--2025&theme=swift)](https://github.com/Naiery0/IoT-C--2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=IoT-Cpp-2025&theme=swift)](https://github.com/Naiery0/IoT-Cpp-2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-winapp-2025&theme=swift)](https://github.com/Naiery0/iot-winapp-2025)
@@ -50,13 +54,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-dataanalysis-2025&theme=swift)](https://github.com/Naiery0/iot-dataanalysis-2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=swift)](https://github.com/Naiery0/iot-database-2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-webapp-2025&theme=swift)](https://github.com/Naiery0/iot-webapp-2025)
-
+</details>
 
 ## Project Repository
+<details>
+  <summary>Repository List</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=WinFormProject&theme=swift)](https://github.com/Naiery0/WinFormProject)
-
+</details>
 
