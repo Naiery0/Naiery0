@@ -14,7 +14,9 @@
 
 `Name` : Kim Juntae  
 
-`mail` <a href="mailto:molly724@naver.com"><img src="https://img.shields.io/badge/molly724@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=molly724@naver.com"></a>
+`mail` 
+
+<a href="mailto:molly724@naver.com"><img src="https://img.shields.io/badge/molly724@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=molly724@naver.com"></a>
 <a href="mailto:molly000724@gamil.com"><img src="https://img.shields.io/badge/molly000724@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=molly000724@gmail.com"></a>
 
 
