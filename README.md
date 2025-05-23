@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<div align="right">
+ <!-- <a href="https://github.com/Naiery0/"> -->
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FNaiery0%2F?color=red&label=hits&size=medium" alt="hits" />
+  </a>
+</div>
+
 ## Profile
 
 `Name` : Kim Juntae  
