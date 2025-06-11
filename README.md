@@ -62,6 +62,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-dataanalysis-2025&theme=swift)](https://github.com/Naiery0/iot-dataanalysis-2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-database-2025&theme=swift)](https://github.com/Naiery0/iot-database-2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=iot-webapp-2025&theme=swift)](https://github.com/Naiery0/iot-webapp-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=backjoon-note&theme=swift)](https://github.com/Naiery0/backjoon-note)
 </details>
 
 ## Project Repository
