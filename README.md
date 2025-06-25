@@ -71,7 +71,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naiery0&repo=WinFormProject&theme=swift)](https://github.com/Naiery0/WinFormProject)
-</details>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-TeamProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-TeamProject)
+</details>
+
 
 
