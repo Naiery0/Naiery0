@@ -14,10 +14,12 @@
 
 `Name` : Kim Juntae  
 
-`mail` 
+`Email` 
 
 <a href="mailto:molly724@naver.com"><img src="https://img.shields.io/badge/molly724@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=molly724@naver.com"></a>
 <a href="mailto:molly000724@gamil.com"><img src="https://img.shields.io/badge/molly000724@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=molly000724@gmail.com"></a>
+
+`homepage` : <a href="https://Naiery0.github.io/">github.io</a>
 
 
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naiery0&layout=compact)
